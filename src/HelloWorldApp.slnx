@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="HelloWorldApp.Common/HelloWorldApp.Common.csproj" />
+  <Project Path="HelloWorldApp.Tests/HelloWorldApp.Tests.csproj" />
+  <Project Path="HelloWorldApp.Tool/HelloWorldApp.Tool.csproj" />
+</Solution>
